@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tiempo Urgencia.exe" size="652720">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tiempo Urgencia.exe" size="653232">
       <assemblyIdentity name="Tiempo Urgencia" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Lk5UbW4UnPCNb9o3YD1qyDtUqz0=</dsig:DigestValue>
+        <dsig:DigestValue>4GBAYReasXTYE45mnedqcuLZlUA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
