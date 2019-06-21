@@ -26,3 +26,16 @@ C:\Users\Ivan Vidal\Documents\Visual Studio 2017\WindowsFormsApp1\WindowsFormsAp
 C:\Users\Ivan Vidal\Documents\Visual Studio 2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tiempo Urgencia.application
 C:\Users\Ivan Vidal\Documents\Visual Studio 2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tiempo Urgencia.exe
 C:\Users\Ivan Vidal\Documents\Visual Studio 2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tiempo Urgencia.pdb
+C:\Users\ividal\Documents\Visual Studio 2017\Tiempo-Urgencia-Notebooks\WindowsFormsApp1\bin\Debug\Tiempo Urgencia.exe.manifest
+C:\Users\ividal\Documents\Visual Studio 2017\Tiempo-Urgencia-Notebooks\WindowsFormsApp1\bin\Debug\Tiempo Urgencia.application
+C:\Users\ividal\Documents\Visual Studio 2017\Tiempo-Urgencia-Notebooks\WindowsFormsApp1\bin\Debug\Tiempo Urgencia.exe
+C:\Users\ividal\Documents\Visual Studio 2017\Tiempo-Urgencia-Notebooks\WindowsFormsApp1\bin\Debug\Tiempo Urgencia.pdb
+C:\Users\ividal\Documents\Visual Studio 2017\Tiempo-Urgencia-Notebooks\WindowsFormsApp1\obj\Debug\Tiempo_Urgencia.csprojAssemblyReference.cache
+C:\Users\ividal\Documents\Visual Studio 2017\Tiempo-Urgencia-Notebooks\WindowsFormsApp1\obj\Debug\Tiempo_Urgencia.Properties.Resources.resources
+C:\Users\ividal\Documents\Visual Studio 2017\Tiempo-Urgencia-Notebooks\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ividal\Documents\Visual Studio 2017\Tiempo-Urgencia-Notebooks\WindowsFormsApp1\obj\Debug\Tiempo_Urgencia.csproj.GenerateResource.cache
+C:\Users\ividal\Documents\Visual Studio 2017\Tiempo-Urgencia-Notebooks\WindowsFormsApp1\obj\Debug\Tiempo_Urgencia.csproj.CoreCompileInputs.cache
+C:\Users\ividal\Documents\Visual Studio 2017\Tiempo-Urgencia-Notebooks\WindowsFormsApp1\obj\Debug\Tiempo Urgencia.exe.manifest
+C:\Users\ividal\Documents\Visual Studio 2017\Tiempo-Urgencia-Notebooks\WindowsFormsApp1\obj\Debug\Tiempo Urgencia.application
+C:\Users\ividal\Documents\Visual Studio 2017\Tiempo-Urgencia-Notebooks\WindowsFormsApp1\obj\Debug\Tiempo Urgencia.exe
+C:\Users\ividal\Documents\Visual Studio 2017\Tiempo-Urgencia-Notebooks\WindowsFormsApp1\obj\Debug\Tiempo Urgencia.pdb

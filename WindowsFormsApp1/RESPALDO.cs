@@ -16,8 +16,7 @@ namespace WindowsFormsApp1
             InitializeComponent();
             this.CenterToScreen();
             //this.Text = "Servicio Atención Urgencia";
-            
-
+   
 
 
         }
@@ -270,11 +269,7 @@ namespace WindowsFormsApp1
 
         }
 
-        private void panel4_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
+      
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -319,27 +314,6 @@ namespace WindowsFormsApp1
             cargarCantidades(null, null);
         }
        
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-
         private void dataBox_ColumnSortModeChanged(object sender, DataGridViewColumnEventArgs e)
         {
 
@@ -353,27 +327,7 @@ namespace WindowsFormsApp1
             dataEspera.Columns[e.Column.Index].SortMode = DataGridViewColumnSortMode.NotSortable;
 
         }
-
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dataEspea_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-        private void dataCategoria_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-           
-        }
+        
 
             private void timer1_Tick(object sender, EventArgs e)
         {
@@ -398,11 +352,6 @@ namespace WindowsFormsApp1
             cargarCantidades(null, null);
         }
 
-        private void panel5_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
         private void dataCategoria_SelectionChanged(object sender, EventArgs e)
         {
             dataCateg.ClearSelection();
@@ -418,22 +367,7 @@ namespace WindowsFormsApp1
            dataBox.ClearSelection();
            
         }
-
-
-        private void dataBox_AllowUserToResizeRowsChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
+        
 
         private void Form1_Resize(object sender, EventArgs e)
         {
@@ -481,16 +415,6 @@ namespace WindowsFormsApp1
         {
 
            dataCateg.ClearSelection();
-        }
-
-        private void dataCateg_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-        private void pictureBox2_Click_1(object sender, EventArgs e)
-        {
-
         }
 
         private void pictureBox3_Click_1(object sender, EventArgs e)

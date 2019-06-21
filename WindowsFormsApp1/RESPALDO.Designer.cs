@@ -94,7 +94,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1269, 699);
             this.panel1.TabIndex = 0;
-            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+           
             // 
             // box
             // 
@@ -171,7 +171,7 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 9;
             this.pictureBox2.TabStop = false;
-            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click_1);
+          
             // 
             // dataCateg
             // 
@@ -239,7 +239,7 @@
             this.dataCateg.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataCateg.Size = new System.Drawing.Size(1243, 225);
             this.dataCateg.TabIndex = 7;
-            this.dataCateg.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataCateg_CellContentClick);
+          
             this.dataCateg.ColumnSortModeChanged += new System.Windows.Forms.DataGridViewColumnEventHandler(this.dataCateg_ColumnSortModeChanged);
             this.dataCateg.SelectionChanged += new System.EventHandler(this.dataCateg_SelectionChanged);
             // 
@@ -309,7 +309,7 @@
             this.dataBox.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataBox.Size = new System.Drawing.Size(1243, 241);
             this.dataBox.TabIndex = 1;
-            this.dataBox.AllowUserToResizeRowsChanged += new System.EventHandler(this.dataBox_AllowUserToResizeRowsChanged);
+           
             this.dataBox.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataBox_CellContentClick);
             this.dataBox.ColumnSortModeChanged += new System.Windows.Forms.DataGridViewColumnEventHandler(this.dataBox_ColumnSortModeChanged);
             this.dataBox.SelectionChanged += new System.EventHandler(this.dataBox_SelectionChanged);
@@ -358,7 +358,7 @@
             this.dataEspera.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataEspera.Size = new System.Drawing.Size(482, 121);
             this.dataEspera.TabIndex = 6;
-            this.dataEspera.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataEspea_CellContentClick);
+        
             this.dataEspera.ColumnSortModeChanged += new System.Windows.Forms.DataGridViewColumnEventHandler(this.dataEspera_ColumnSortModeChanged);
             this.dataEspera.SelectionChanged += new System.EventHandler(this.dataEspera_SelectionChanged);
             // 
@@ -373,7 +373,7 @@
             this.label3.Size = new System.Drawing.Size(197, 25);
             this.label3.TabIndex = 4;
             this.label3.Text = "Pacientes en Box: ";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
+            
             // 
             // label2
             // 
@@ -386,7 +386,7 @@
             this.label2.Size = new System.Drawing.Size(276, 25);
             this.label2.TabIndex = 3;
             this.label2.Text = "Pacientes Categorizados: ";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
+            
             // 
             // label1
             // 
@@ -399,7 +399,7 @@
             this.label1.Size = new System.Drawing.Size(228, 25);
             this.label1.TabIndex = 2;
             this.label1.Text = "Pacientes en Espera: ";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+       
             // 
             // panel5
             // 
@@ -410,7 +410,7 @@
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(1418, 37);
             this.panel5.TabIndex = 6;
-            this.panel5.Paint += new System.Windows.Forms.PaintEventHandler(this.panel5_Paint);
+          
             this.panel5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel5_MouseDown);
             // 
             // label4
@@ -424,7 +424,7 @@
             this.label4.TabIndex = 4;
             this.label4.Text = "Tiempo Espera Atención Urgencia";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label4.Click += new System.EventHandler(this.label4_Click);
+           
             // 
             // temporizador
             // 
